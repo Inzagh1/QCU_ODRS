@@ -45,7 +45,7 @@
 
               <label class="form-control w-full max-w-xs pt-4 ">
                 <div class="label">
-                  <span class="label-text text-black text-[15px] font-medium">Position:</span>
+                  <span class="label-text text-black text-[15px] font-medium">Department:</span>
                 </div>
                 <input type="text" placeholder="Type here"  class="text-black bg-slate-300 input w-full max-w-xs shadow-sm border-[0.5px] border-[#0a0a0a2b] " />
               </label>

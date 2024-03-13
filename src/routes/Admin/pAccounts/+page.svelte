@@ -31,7 +31,7 @@
               <tr>
              
                 <th class="text-white text-[15px]">FULL NAME</th>
-                <th class="text-white text-[15px]">POSITION</th>
+                <th class="text-white text-[15px]">DEPARTMENT</th>
                 <th class="text-white text-[15px]">ID</th>
                 <th class="text-white text-[15px]">MANAGE</th>
               </tr>
